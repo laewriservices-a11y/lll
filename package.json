@@ -1,0 +1,15 @@
+{
+  "name": "mythicbrawl-backend",
+  "version": "1.0.0",
+  "description": "MythicBrawl live analytics backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
